@@ -1,0 +1,9 @@
+
+
+function partidasGanha() {
+
+}
+
+function partidasPerdidas (){
+  
+}
