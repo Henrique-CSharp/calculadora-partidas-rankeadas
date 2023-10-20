@@ -98,7 +98,7 @@ function main() {
 
     const saldoRankeadas = calcularSaldoRankeadas(vitorias, derrotas);
 
-    console.log('O herói tem de saldo de vitória', calcularSaldoRankeadas(vitorias, derrotas), 'e está no nível', classificarPontuacao(saldoRankeadas)); 
+    console.log('O herói tem de saldo de vitórias', calcularSaldoRankeadas(vitorias, derrotas), 'e está no nível', classificarPontuacao(saldoRankeadas)); 
 
 }
 
